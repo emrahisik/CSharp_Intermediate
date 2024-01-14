@@ -1,0 +1,14 @@
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.AssemblyInfoInputs.cache
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.AssemblyInfo.cs
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.csproj.CoreCompileInputs.cache
+/Users/emrahisik/Documents/CSharp/DataModelling/bin/Debug/net8.0/DataModelling
+/Users/emrahisik/Documents/CSharp/DataModelling/bin/Debug/net8.0/DataModelling.deps.json
+/Users/emrahisik/Documents/CSharp/DataModelling/bin/Debug/net8.0/DataModelling.runtimeconfig.json
+/Users/emrahisik/Documents/CSharp/DataModelling/bin/Debug/net8.0/DataModelling.dll
+/Users/emrahisik/Documents/CSharp/DataModelling/bin/Debug/net8.0/DataModelling.pdb
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.dll
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/refint/DataModelling.dll
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.pdb
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/DataModelling.genruntimeconfig.cache
+/Users/emrahisik/Documents/CSharp/DataModelling/obj/Debug/net8.0/ref/DataModelling.dll
